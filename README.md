@@ -1,2 +1,2 @@
 # HelloWorld
-Simple gello world Repository
+Simple hello world Repository
